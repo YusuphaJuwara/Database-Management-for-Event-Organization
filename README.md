@@ -1,6 +1,6 @@
 ﻿# Database-Management-for-Event-Organization
  
-  Overview
+ # Overview
 EventOrg is a hypothetical company whose goal is to provide to the public the 
 best experience possible when wanting to host an event. Since organizing any 
 sort of event or get together can be troublesome and is the least fun part of 
